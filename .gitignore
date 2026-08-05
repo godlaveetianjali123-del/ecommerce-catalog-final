@@ -1,8 +1,19 @@
+# Dependencies
 node_modules/
-.vite/
-dist/
-
 server/node_modules/
+
+# Build folders
+dist/
+.vite/
+
+# Environment files
+.env
+*.env
 server/.env
 
-.env
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
