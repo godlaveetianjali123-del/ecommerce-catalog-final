@@ -1,0 +1,8 @@
+node_modules/
+.vite/
+dist/
+
+server/node_modules/
+server/.env
+
+.env
