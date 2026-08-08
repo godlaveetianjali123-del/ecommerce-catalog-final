@@ -6,7 +6,7 @@ import App from "./App";
 import "./index.css";
 
 import { CartProvider } from "./context/CartContext";
-import { SearchProvider } from "./context/SearchContext";
+import { SearchProvider } from "./context/searchcontext";
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
