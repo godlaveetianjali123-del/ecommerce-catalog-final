@@ -5,8 +5,8 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import "./index.css";
 
-import {cartProvider} from "./context/CartContext";
-import {searchprovider} from "./context/searchcontext";
+import { CartProvider } from "./context/CartContext";
+import { SearchProvider } from "./context/searchcontext";
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
