@@ -132,7 +132,7 @@ It serves as a demonstration of how **React, routing, reusable components, state
 
 ### 🔗 Visit the E-Commerce Catalog
 
-[🚀 Open Live Website](https://ecommerce-catalog-final-zjtq-mabrc5kp7.vercel.app/?utm_source=chatgpt.com)
+[🚀 Open Live Website]https://ecommerce-catalog-final-zjtq-mabrc5kp7.vercel.app/
 
 ---
 
