@@ -6,8 +6,8 @@ import ProductDetails from "./pages/ProductDetails";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import Login from "./pages/login";
-import Register from "./pages/Register";
-import Profile from "./pages/Profile";
+import Profile from "./pages/profile";
+import Register from "./pages/register";
 import NotFound from "./pages/NotFound";
 
 import Navbar from "./components/Navbar";
