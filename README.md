@@ -5,7 +5,7 @@
 A modern **E-Commerce Catalog web application** designed to provide a smooth and engaging online shopping experience. The project focuses on clean UI, responsive design, intuitive navigation, and essential e-commerce functionality.
 
 🔗 **Live Demo:**
-[ecommerce-catalog-final-zjtq-mabrc5kp7.vercel.app](https://ecommerce-catalog-final-zjtq-mabrc5kp7.vercel.app/?utm_source=chatgpt.com)
+[ecommerce-catalog-final-zjtq-mabrc5kp7.vercel.app]https://ecommerce-catalog-final-zjtq-mabrc5kp7.vercel.app/
 
 ---
 
