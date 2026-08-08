@@ -1,6 +1,6 @@
 import ProductCard from "../components/ProductCard";
 import products from "../data/products";
-import { useSearch } from "../context/SearchContext";
+import { useSearch } from "../context/searchcontext";
 
 
 function Products() {
